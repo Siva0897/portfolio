@@ -143,7 +143,7 @@ export default function App() {
                 View My Work
               </a>
 
-              <a href="https://drive.google.com/file/d/1u6pOMEq7WYeDXoepvtgAsOKhWemaG1x9/view" target="_blank" className="px-8 py-3 border-2 border-aurora-green rounded-full hover:bg-aurora-green hover:text-dark-bg transition transform hover:scale-105">
+              <a href="https://drive.google.com/file/d/16KO-kid5taCjEqROzaF05t7t0BIRCMXn/view?usp=sharing" target="_blank" className="px-8 py-3 border-2 border-aurora-green rounded-full hover:bg-aurora-green hover:text-dark-bg transition transform hover:scale-105">
                 Download CV
               </a>
             </div>
