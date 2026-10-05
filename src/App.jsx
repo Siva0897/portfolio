@@ -143,7 +143,7 @@ export default function App() {
                 View My Work
               </a>
 
-              <a href="https://drive.google.com/file/d/1HgWWH-uPh8lzzNluCDoQEKqnVZZeTTeW/view?usp=sharing" target="_blank" className="px-8 py-3 border-2 border-aurora-green rounded-full hover:bg-aurora-green hover:text-dark-bg transition transform hover:scale-105">
+              <a href="https://drive.google.com/file/d/16KO-kid5taCjEqROzaF05t7t0BIRCMXn/view?usp=sharing" target="_blank" className="px-8 py-3 border-2 border-aurora-green rounded-full hover:bg-aurora-green hover:text-dark-bg transition transform hover:scale-105">
                 Download CV
               </a>
             </div>
@@ -194,7 +194,7 @@ export default function App() {
             <div className="space-y-6">
 
               <p className="text-gray-400 leading-relaxed">
-                With over 4 years of experience in web development and
+                With over 2 years of experience in web development and
                 specialize in creating immersive digital experiences that captivate
                 users and drive business growth.
               </p>
@@ -215,7 +215,7 @@ export default function App() {
                 </div>
 
                 <div className="bg-dark-card p-4 rounded-lg border border-dark-border">
-                  <div className="text-3xl font-bold text-aurora-purple">4+</div>
+                  <div className="text-3xl font-bold text-aurora-purple">2+</div>
                   <div className="text-sm text-gray-400">Years Experience</div>
                 </div>
 
@@ -268,7 +268,7 @@ export default function App() {
                   <h3 className="text-xl font-semibold text-aurora-green">
                     Frontend Developer
                   </h3>
-                  <span className="text-sm text-gray-400">2022 (May) - 2026 (August)</span>
+                  <span className="text-sm text-gray-400">2023 (May) - 2025 (August)</span>
                 </div>
 
                 <p className="text-gray-300 font-medium mb-2">
@@ -301,7 +301,7 @@ export default function App() {
                     Frontend Development – Learning Phase
 
                   </h3>
-                  <span className="text-sm text-gray-400">2022</span>
+                  <span className="text-sm text-gray-400">2022(September) - 2023 (February)</span>
                 </div>
 
                 <p className="text-gray-300 font-medium mb-2">
